@@ -1,7 +1,6 @@
 h1 {
 	color: #bcbbbb;
-	font-size: 400%;
-	font-weight: bold;
+	font: bold 400%  'Lato', sans-serif;
 	margin-top: 20px;
 	margin-bottom: 0px;
 }
@@ -18,12 +17,13 @@ h1 {
 .thick-border {
 	border-style: solid;
     border-width: 10px;
-    margin-top: 15px;
     width: 781px;
     height: auto;
     display: block;
+    /* in order to use shorthand all 4 values are needed, so leaving this as separate */
     margin-left: auto;
     margin-right: auto;
+    margin-top: 15px;
 }
 
 .align-portfolio-title-left {
