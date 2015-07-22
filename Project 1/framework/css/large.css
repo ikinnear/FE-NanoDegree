@@ -11,18 +11,18 @@ h1 {
 	display: flex;
 	flex-wrap: wrap;
 	margin: 0 auto;
-    max-width: 801px;
+	max-width: 801px;
 }
 
 .thick-border {
 	border: 10px solid #000;
-    width: 781px;
-    height: auto;
-    display: block;
-    /* in order to use shorthand all 4 values are needed, so leaving this as separate */
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 15px;
+	width: 781px;
+	height: auto;
+	display: block;
+	/* in order to use shorthand all 4 values are needed, so leaving this as separate */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
 }
 
 .align-portfolio-title-left {
