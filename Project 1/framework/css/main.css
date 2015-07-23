@@ -3,11 +3,11 @@
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 }
 
 body {
-  margin: 0;
+	margin: 0;
 }
 
 p {
@@ -16,19 +16,19 @@ p {
 }
 
 em {
-	font: bold 100% 'Lato', sans-serif;
+	font: bold 100% "Lato", sans-serif;
 }
 
 h2 {
 	color: #bcbbbb;
 	/* combining to use shorthand */
-	font: bold 200% 'Lato', sans-serif;
+	font: bold 200% "Lato", sans-serif;
 	margin-bottom: 10px;
 }
 
 h3 {
 	color: #747704;
-	font: bold 200% 'Lato', sans-serif;
+	font: bold 200% "Lato", sans-serif;
 	/* in order to use shorthand all 4 values are needed, so leaving this as separate */
 	margin-top: 10px;
 	margin-bottom: 5px;
@@ -37,7 +37,7 @@ h3 {
 
 h4 {
 	color: #747704;
-	font: bold 125% 'Lato', sans-serif;
+	font: bold 125% "Lato", sans-serif;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }

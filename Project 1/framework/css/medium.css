@@ -1,8 +1,7 @@
 h1 {
 	color: #bcbbbb;
-	font: bold 350% 'Lato', sans-serif;
-	margin-top: 20px;
-	margin-bottom: 0px;
+	font: bold 350% "Lato", sans-serif;
+	margin: 20px 0px 0px 0px;
 }
 
 .row {
